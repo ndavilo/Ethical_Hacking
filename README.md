@@ -21,3 +21,29 @@ Nmap-sn-PR (IP Address)
 
 UDP Ping Scan: Attackers send UDP packets to target hosts and a UDP response indicates that the host is active.
 Nmap-sn-PU (IP Address)
+
+TCP Connect/full Open Scan Zenmp nmap-st-v (IP Address)
+Scan result when a port is open:
+
+
+
+
+Scan result when a port is closed:
+
+
+
+
+
+Inverse TCP flag scan and Xmas Scan: Attackers send TCP probe packets with a TCP flag(FIN, URG, PSH) set or with no flags.
+
+Port open:
+
+
+
+Port closed:
+
+
+
+
+
+It does not work in windows systems
